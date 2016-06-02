@@ -1,0 +1,9 @@
+title: My Site
+description: >
+  A brief desciption of the site.
+baseurl: ""
+markdown: kramdown
+exclude: [
+  "bower_components",
+  "bower.json"
+]
